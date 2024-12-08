@@ -17,7 +17,6 @@ include 'koneksi.php';
   <link rel="stylesheet" href="assets_depan/css/style.css">
 </head>
 <body data-spy="scroll" data-target=".navbar" data-offset="50">
-
   <div id="mobile-menu-overlay"></div>
   <nav class="navbar navbar-expand-lg fixed-top">
     <div class="container">
