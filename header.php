@@ -14,8 +14,11 @@
 </head>
 <body data-spy="scroll" data-target=".navbar" data-offset="50">
   <?php 
-  include 'koneksi.php';
+  ob_start();
   session_start();
+
+  include 'koneksi.php';
+  ob_end_flush();
   ?>
   <div id="mobile-menu-overlay"></div>
   <nav class="navbar navbar-expand-lg fixed-top">
