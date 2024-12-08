@@ -5,7 +5,7 @@ pipeline {
             steps {
                 script {
                     sh '''
-                    cd /var/personal/php/e-voting && git pull
+                    sudo -u yolando bash -c "cd /var/personal/php/e-voting && git pull"
                     '''
                 }
             }
