@@ -33,7 +33,7 @@
       </div>
     </div>
   </section>
-  <section class="our-services" id="services">
+  <!-- <section class="our-services" id="services">
     <div class="container">
       <div class="row">
         <div class="col-sm-12">
@@ -112,7 +112,7 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
   <section class="our-process" id="syarat">
     <div class="container">
       <div class="row">
@@ -157,7 +157,7 @@
   </section>
 
   <section class="our-projects" id="projects">
-    <div class="container">
+    <!-- <div class="container">
       <div class="row mb-5">
         <div class="col-sm-12">
           <div class="d-sm-flex justify-content-between align-items-center mb-2">
@@ -166,8 +166,8 @@
           </div>
         </div>
       </div>
-    </div>
-    <div class="mb-5" data-aos="fade-up">
+    </div> -->
+    <!-- <div class="mb-5" data-aos="fade-up">
       <div class="owl-carousel-projects owl-carousel owl-theme">
         <div class="item">
           <img src="assets_depan/images/carousel/slider1.jpg" alt="slider">
@@ -215,7 +215,7 @@
           <img src="assets_depan/images/carousel/slider5.jpg" alt="slider">
         </div>
       </div>
-    </div>
+    </div> -->
     <div class="container">
 
       <div class="row pt-5 mt-5 pb-5 mb-5">
@@ -270,7 +270,7 @@
       </div>
     </div>
   </section>
-  <section class="testimonial" id="testimonial">
+  <!-- <section class="testimonial" id="testimonial">
     <div class="container">
       <div class="row  mt-md-0 mt-lg-4">
         <div class="col-sm-6 text-white" data-aos="fade-up">
@@ -339,7 +339,7 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
 
   
 </div>
