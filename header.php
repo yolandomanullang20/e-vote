@@ -1,10 +1,10 @@
 <?php
+include 'koneksi.php';
 if (headers_sent($file, $line)) {
     echo "Headers already sent in $file on line $line";
     exit;
 }
 session_start();
-include 'koneksi.php';
 ?>
 
 <!DOCTYPE html>
