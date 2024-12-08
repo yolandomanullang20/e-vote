@@ -11,7 +11,7 @@
                 <div class="banner-title">
                   <h3 class="font-weight-medium">
                     Sistem Informasi <b>E-Voting</b> Pemilihan Kepala Daerah 
-                    Berbasis Web
+                    Berbasis Website
                   </h3>
                 </div>
                 <p class="mt-3">
