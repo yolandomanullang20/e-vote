@@ -17,7 +17,7 @@
                 <p class="mt-3">
                   Selamat datang di sistem informasi e-voting online. yang dibuat berbasis web.
                   <br>
-                  Sehingga bisa diakses dari mana saja dan kapan saja.
+                  Sehingga bisa diakses dari mana saja dan kapan saja oke.
                 </p>
 
                 <a href="kandidat.php" class="btn btn-outline-secondary text-white mt-3">LIHAT KANDIDAT</a>
