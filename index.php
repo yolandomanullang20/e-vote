@@ -10,7 +10,7 @@
               <div data-aos="zoom-in-up">
                 <div class="banner-title">
                   <h3 class="font-weight-medium">
-                    Sistem Informasi <b>E-Voting</b> Pemilihan Jenkins
+                    Sistem Informasi <b>E-Voting</b> Pemilihan Jenkins Update
                     Berbasis Web
                   </h3>
                 </div>
