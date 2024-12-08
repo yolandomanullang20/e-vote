@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+<?php include 'header.php';?>
 
 <div class="page-body-wrapper">
   <section id="home" class="home">
